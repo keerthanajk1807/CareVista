@@ -1,0 +1,15 @@
+export { default as Navigation } from "./pages/Navigation.jsx";
+export { default as HomePage } from "./pages/HomePage.jsx";
+export { default as DoctorsPage } from "./pages/DoctorsPage.jsx";
+export { default as DoctorDetailsPage } from "./pages/DoctorDetailsPage.jsx";
+export { default as BookAppointmentPage } from "./pages/BookAppointmentPage.jsx";
+export { default as AppointmentsPage } from "./pages/AppointmentsPage.jsx";
+export { default as AppointmentDetailsPage } from "./pages/AppointmentDetailsPage.jsx";
+export { default as LoginPage } from "./pages/LoginPage.jsx";
+export { default as PatientLayout } from "./pages/PatientLayout.jsx";
+export { default as PatientHome } from "./pages/PatientHome.jsx";
+export { default as PatientAppointments } from "./pages/PatientAppointments.jsx";
+export { default as PatientUpcoming } from "./pages/PatientUpcoming.jsx";
+export { default as PatientHistory } from "./pages/PatientHistory.jsx";
+export { default as PatientProfilePage } from "./pages/PatientProfilePage.jsx";
+export { default as NotFoundPage } from "./pages/NotFoundPage.jsx";
